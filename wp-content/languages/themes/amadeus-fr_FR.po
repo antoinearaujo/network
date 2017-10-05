@@ -1,0 +1,1021 @@
+# Translation of Themes - Amadeus in French (France)
+# This file is distributed under the same license as the Themes - Amadeus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-27 09:30:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Amadeus\n"
+
+#. #-#-#-#-#  amadeus.pot (Amadeus 2.0.6)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:82
+msgid "Amadeus"
+msgstr "Amadeus"
+
+#. Description of the plugin/theme
+msgid "Amadeus is a responsive blog theme that features a modern and clean design. Features include: a parallax header image, Metaslider integration, ability to use Google Fonts, social icons, full color control, custom widgets and much more."
+msgstr "Amadeux est un thème responsive de blog avec un design moderne et propre. Fonctionnalités incluses : image d'en-tête Parallax, intégration de Metaslider, possibilité d'utiliser les polices Google, des icônes sociaux, un contrôle total des couleurs des widgets personnalisés et bien plus encore."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer ou à activer."
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a une ou plusieurs  extensions nécessaires ou recommandées à installer, mettre à jour ou activer."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l’extension : %s"
+
+#: inc/customizer.php:1043
+msgid "Choose between 2 styles to display your posts on the front page."
+msgstr "Choisissez entre deux styles pour afficher vos articles sur l’accueil."
+
+#: inc/customizer.php:1019
+msgid "Change the color for header text, header buttons, widgets background and color, footer widgets title and article title."
+msgstr "Changez la couleur pour le texte et les boutons d’en-tête, la couleur et l’arrière-plan des widgets, le titre des articles et des widgets du pied."
+
+#: inc/customizer.php:995
+msgid "Support"
+msgstr "Support"
+
+#: inc/customizer.php:994
+msgid "Footer Credits"
+msgstr "Crédits du pied"
+
+#: inc/customizer.php:993
+msgid "Extra Typography Options"
+msgstr "Options extra de typographie"
+
+#: inc/customizer.php:992 inc/customizer.php:1016
+msgid "Extra Colors"
+msgstr "Couleurs extras"
+
+#: inc/customizer.php:991 inc/customizer.php:1040
+msgid "Alternative Layout"
+msgstr "Mise en page alternative"
+
+#: inc/customizer.php:990
+msgid "Extra Widget Area"
+msgstr "Zone de widget extra"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:228
+msgid "Nivo Slider shortcode"
+msgstr "Code court Nivo Slider"
+
+#. translators: Install Nivo Slider Link
+#: inc/customizer.php:222
+msgid "Add the shortcode for the %s plugin here"
+msgstr "Ajoutez le code court pour l’extension %s ici"
+
+#: inc/customizer.php:187 inc/customizer.php:1113
+msgid "Nivo Slider (requires the Nivo Slider plugin)"
+msgstr "Nivo Slider (nécessite l’extension Nivo Slider)"
+
+#: inc/customizer.php:972 inc/customizer.php:998 inc/customizer.php:1022
+#: inc/customizer.php:1046
+msgid "View PRO version"
+msgstr "Voir la version PRO"
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:84
+msgid "Documentation"
+msgstr "Documentation"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été effectuées."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation démarre. Cette opération peut prendre quelques minutes selon votre hébergement, soyez patients"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été effectuées"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation et d'activation démarre. Cette opération peut prendre quelques minutes selon votre hébergement, patientez..."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur a eu lieu durant l'installation de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour d'extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Échec d'activation de l'extension"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "0 extensions disponibles à l'activation pour l'instant"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "0 extensions disponibles à l'activation pour l'instant Pas d'action en cours."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "0 extensions disponibles à la mise à jour pour l'instant."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "0 extensions disponibles à l'installation pour l'instant"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "0 extensions choisies pour la mise à jour. Pas d'action en cours."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "0 extensions disponibles à l'installation pour l'instant Pas d'action en cours."
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activation"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mise à jour"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installation"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l'auteur de l'extension :"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Statut"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible. :"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimum nécessaire :"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tout <span class=\"count\">(%s)</span>"
+msgstr[1] "Tout <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour nécessaire"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actif"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Dépot WordPress"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Nécessaire"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le package d'extensions distantes consiste à plus d'un fichier, mais les fichiers ne sont pas packagés dans un répertoire"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Merci de contacter le fournisseur de l'extension et de lui demander d'accorder son extension avec les guidelines WordPress"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le package d'extensions distantes ne contient pas de répertoire avec le slug désiré et le renommage ne fonctionnera pas"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour nécessaire"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension nécessite une mise à jour pour être compatible avec votre thème."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Merci de contacter l'administrateur de ce site pour de l'aide."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Retirer cette notice"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes extensions installées et activées. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non activée. Une version plus récente de %s est requise pour ce thème. Merci de la mettre à jour."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Pas d'action requise. L'extension %1$s est déjà active."
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a été activée avec succès. %s."
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Extension activée avec succès."
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retour vers l'installeur d'extensions"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Début d'activation d'extension"
+msgstr[1] "Début d'activation des extensions"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Début de mise à jour d'extension"
+msgstr[1] "Début de mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Début d'installation d'extension"
+msgstr[1] "Début d'installation des extensions"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur a eu lieu avec l'API de l'extension"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension : %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installation des extensions"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installation des extensions requises"
+
+#: widgets/video-widget.php:19
+msgid "Display an oEmbed video."
+msgstr "Affiche une vidéo oEmbed"
+
+#: widgets/video-widget.php:46
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Collez l'URL de la vidéo (seulement pour les réseaux supportant oEmbed tels que Youtube, vimeo, etc) :"
+
+#: widgets/video-widget.php:21
+msgid "Amadeus: Video"
+msgstr "Amadeus : Vidéo"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Pleine Largeur"
+
+#: widgets/recent-posts.php:49
+msgid "Display post date?"
+msgstr "Afficher la date de l'article?"
+
+#: widgets/recent-posts.php:45
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher :"
+
+#: widgets/recent-posts.php:19
+msgid "Recent posts with thumbnails."
+msgstr "Articles récents avec miniatures"
+
+#: widgets/recent-posts.php:21
+msgid "Amadeus: Recent Posts"
+msgstr "Amadeus : Articles récents"
+
+#: widgets/recent-posts.php:41 widgets/video-widget.php:42
+msgid "Title"
+msgstr "Titre"
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: widgets/recent-comments.php:101
+msgid "%1$s on %2$s"
+msgstr "%1$s le %2$s"
+
+#: widgets/recent-comments.php:155
+msgid "Number of comments to show:"
+msgstr "Nombre de commentaires à afficher :"
+
+#: widgets/recent-comments.php:21
+msgid "Amadeus: Recent Comments"
+msgstr "Amadeus : Commentaires récents"
+
+#: widgets/recent-comments.php:19
+msgid "Recent comments with avatars."
+msgstr "Commentaires récents avec avatars"
+
+#: widgets/recent-comments.php:58
+msgid "Recent Comments"
+msgstr "Commentaires récents"
+
+#: widgets/about-me.php:106
+msgid "Enter the URL for your photo"
+msgstr "Entrez l'URL de votre photo"
+
+#: widgets/about-me.php:109
+msgid "Add your text:"
+msgstr "Ajoutez votre texte :"
+
+#: widgets/about-me.php:113
+msgid "Automatically add paragraphs"
+msgstr "Ajout automatique de paragraphes"
+
+#: widgets/about-me.php:19
+msgid "About me widget."
+msgstr "Widget à propos de moi"
+
+#: widgets/about-me.php:25
+msgid "Amadeus: About me"
+msgstr "Amadeux : à propos de moi"
+
+#: widgets/about-me.php:103 widgets/recent-comments.php:152
+msgid "Title:"
+msgstr "Titre :"
+
+#. translators: Search query
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/template-tags.php:194
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:192
+msgid "%1$s: %2$s"
+msgstr "%1$s : %2$s"
+
+#. translators: Archive title
+#: inc/template-tags.php:188
+msgid "Archives: %s"
+msgstr "Archives : %s"
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Discussions"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Annonces"
+
+#: inc/template-tags.php:165
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#. translators: archive date
+#: inc/template-tags.php:165
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: inc/template-tags.php:162
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: archive month
+#: inc/template-tags.php:162
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: inc/template-tags.php:159
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: archive year
+#: inc/template-tags.php:159
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#. translators: archive author
+#: inc/template-tags.php:156
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#. translators: archive tag
+#: inc/template-tags.php:153
+msgid "Tag: %s"
+msgstr "Étiquette : %s"
+
+#. translators: archive category
+#: inc/template-tags.php:150
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#. translators: categories list
+#: inc/template-tags.php:112
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: tags list
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "Étiquette %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:109 inc/template-tags.php:127
+msgid ", "
+msgstr ", "
+
+#. translators: post date
+#: inc/template-tags.php:88
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#. translators: Author link
+#: inc/template-tags.php:99
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation d'article"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articles plus récents"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articles plus anciens"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation d'articles"
+
+#: inc/customizer.php:623
+msgid "Entry titles"
+msgstr "Titres d'entrée"
+
+#: inc/customizer.php:663
+msgid "Body text"
+msgstr "Texte du corps"
+
+#: inc/customizer.php:643
+msgid "Entry meta"
+msgstr "Meta d'entrée"
+
+#: inc/customizer.php:684
+msgid "Footer background"
+msgstr "Fond de pied"
+
+#: inc/customizer.php:697
+msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: flyfreemedia.com/documentation/amadeus"
+msgstr "Vous pouvez utiliser les polices Google souhaitées pour les en-têtes et/ou le corps. Voir les polices ici : google.com/fonts. Reportez-vous à la documentation si vous avez besoin d'aide avec ceci :  flyfreemedia.com/documentation/amadeus"
+
+#: inc/customizer.php:695
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/customizer.php:711
+msgid "Body font name/style/sets"
+msgstr "Nom de police du corps/style/ensembles"
+
+#: inc/customizer.php:728
+msgid "Body font family"
+msgstr "Famille de police du corps"
+
+#: inc/customizer.php:762
+msgid "Headings font family"
+msgstr "Famille de police d'en-têtes"
+
+#: inc/customizer.php:745
+msgid "Headings font name/style/sets"
+msgstr "Nom/style/ensembles de police d'en-têtes"
+
+#: inc/customizer.php:826
+msgid "H1 font size"
+msgstr "Taille de police H1"
+
+#: inc/customizer.php:870
+msgid "H3 font size"
+msgstr "Taille de police H3"
+
+#: inc/customizer.php:848
+msgid "H2 font size"
+msgstr "Taille de police H2"
+
+#: inc/customizer.php:892
+msgid "H4 font size"
+msgstr "Taille de police H4"
+
+#: inc/customizer.php:936
+msgid "H6 font size"
+msgstr "Taille de police H6"
+
+#: inc/customizer.php:914
+msgid "H5 font size"
+msgstr "Taille de police H5"
+
+#: inc/customizer.php:958
+msgid "Body font size"
+msgstr "Taille de police du corps"
+
+#. translators: Number of page
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:603 inc/customizer.php:804
+msgid "Site description"
+msgstr "Description du site"
+
+#: inc/customizer.php:218
+msgid "Add the shortcode for the Nivo Slider plugin here"
+msgstr "Ajoutez le code court pour l'extension NivoSlider ici"
+
+#: inc/customizer.php:271
+msgid "Set your header image height for screen widths smaller than 1024px"
+msgstr "Définissez la hauteur de votre image d'en-tête pour lesz largeurs d'écran plus petites que 1024 pixels"
+
+#: inc/customizer.php:371
+msgid "Hide the sidebar on index?"
+msgstr "Cacher la barre sur l'accueil ?"
+
+#: inc/customizer.php:204
+msgid "Show the banner only on the homepage?"
+msgstr "Afficher la bannière uniquement sur la page d'accueil ?"
+
+#: inc/customizer.php:188 inc/customizer.php:1114
+msgid "Nothing"
+msgstr "Rien"
+
+#: inc/customizer.php:270
+msgid "Header image height < 1024px"
+msgstr "Hauteur d'image d'en-tête < 1024 pixels"
+
+#: inc/customizer.php:249
+msgid "Header image height"
+msgstr "Hauteur d'image d'en-tête"
+
+#: inc/customizer.php:291
+msgid "Hide the animated scroll arrow from the header image?"
+msgstr "Cacher la flèche animée de défilement de l'iamge d'en-tête ?"
+
+#: inc/customizer.php:301
+msgid "Blog options"
+msgstr "Options du blog"
+
+#: inc/customizer.php:319
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Choix de votre longueur d'extrait. Par défaut : 55 mots."
+
+#: inc/customizer.php:318
+msgid "Excerpt length"
+msgstr "Longueur de l’extrait"
+
+#: inc/customizer.php:339
+msgid "Hide date/author/archives on index?"
+msgstr "Cacher les date/auteur/archives sur l'accueil ?"
+
+#: inc/customizer.php:355
+msgid "Hide date/author/archives on single posts?"
+msgstr "Cacher les date/auteur/archives sur les articles ?"
+
+#: inc/customizer.php:387
+msgid "Hide the sidebar on single posts and pages?"
+msgstr "Cacher la barre sur les articles et pages ?"
+
+#: inc/customizer.php:404
+msgid "Display the full content of your posts on index?"
+msgstr "Afficher le contenu entier des articles sur l'accueil ?"
+
+#: inc/customizer.php:436
+msgid "Hide featured images on single posts?"
+msgstr "Cacher les images mises en avant sur l'article ?"
+
+#: inc/customizer.php:420
+msgid "Hide featured images on index, archives?"
+msgstr "Cacher les images mises en avant sur l'accueil ?"
+
+#: inc/customizer.php:456
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: inc/customizer.php:478
+msgid "Social area background"
+msgstr "Fond se zone sociale"
+
+#: inc/customizer.php:519
+msgid "Branding background"
+msgstr "Fond de marque"
+
+#: inc/customizer.php:498
+msgid "Social icons"
+msgstr "Icônes sociaux"
+
+#: inc/customizer.php:540
+msgid "Menu background"
+msgstr "Fond du menu"
+
+#: inc/customizer.php:582 inc/customizer.php:782
+msgid "Site title"
+msgstr "Titre du site"
+
+#: inc/customizer.php:561
+msgid "Menu items"
+msgstr "Éléments du menu"
+
+#: inc/customizer.php:121
+msgid "Top&amp;bottom padding for the branding (logo, site title, description). Default: 75px"
+msgstr "Padding haut et bas pour la mrque (logo, titre et description du site). Par défaut : 75 pixels."
+
+#: inc/customizer.php:31
+msgid "Header area"
+msgstr "Zone d'en-tête"
+
+#: inc/customizer.php:76
+msgid "Logo size"
+msgstr "Taille du logo"
+
+#: inc/customizer.php:53
+msgid "Upload your logo"
+msgstr "Envoyez votre logo"
+
+#: inc/customizer.php:77
+msgid "Max-width for the logo. Default 200px"
+msgstr "Largeur maxi pour le logo. Défaut : 200 pixels"
+
+#: inc/customizer.php:98
+msgid "This option applies only if you are using a logo"
+msgstr "Cette option ne s'applique que si vous utilisez un logo"
+
+#: inc/customizer.php:97
+msgid "Logo style"
+msgstr "Style du logo"
+
+#: inc/customizer.php:102 inc/customizer.php:1074
+msgid "Only logo"
+msgstr "Logo seul"
+
+#: inc/customizer.php:103 inc/customizer.php:1075
+msgid "Logo plus site title&amp;description"
+msgstr "Logo avec titre et description du site"
+
+#: inc/customizer.php:120
+msgid "Site branding padding"
+msgstr "Padding de marque du site"
+
+#: inc/customizer.php:155 inc/customizer.php:1093
+msgid "Above site title/description"
+msgstr "Au dessus du titre/description du site"
+
+#: inc/customizer.php:134 inc/customizer.php:151
+msgid "Menu position"
+msgstr "Position du menu"
+
+#: inc/customizer.php:156 inc/customizer.php:1094
+msgid "Below site title/description"
+msgstr "En dessous du titre/description du site"
+
+#: inc/customizer.php:186 inc/customizer.php:1112
+msgid "Header image"
+msgstr "image d'en-tête"
+
+#: inc/customizer.php:165 inc/customizer.php:182
+msgid "Banner type"
+msgstr "Type de bannière"
+
+#: inc/customizer.php:20
+msgid "Site branding"
+msgstr "Marque du site"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#. translators: 1 - WordPress link, 2 - Theme name
+#: functions.php:286
+msgid "Theme: %2$s by %1$s."
+msgstr "Thème %2$s par %1$s"
+
+#. translators: WordPress
+#: functions.php:282
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par  %s"
+
+#: functions.php:280
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:142
+msgid "Footer center"
+msgstr "Pied du centre"
+
+#: functions.php:132
+msgid "Footer left"
+msgstr "Pied de gauche"
+
+#: functions.php:152
+msgid "Footer right"
+msgstr "Pied de droite"
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr "Barre"
+
+#: functions.php:56
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. translators: Title of the post
+#: content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:27
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-page.php:19 content-single.php:30 content.php:48
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche."
+
+#: content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#. translators: Add new post link
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre 1er article ? <a href=\"%1$s\">Lancez vous ici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:54 comments.php:78
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:53 comments.php:77
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:50 comments.php:74
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien ne soit trouvé à cet emplacement. Essayez les liens ci-dessous ou une recherche"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups, la page ne peut pas être trouvée."
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/amadeus"
+msgstr "http://themeisle.com/themes/amadeus"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"

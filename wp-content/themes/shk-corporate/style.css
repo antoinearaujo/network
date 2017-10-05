@@ -1,0 +1,161 @@
+/*
+Theme Name: Shk Corporate
+ Description:  A Business theme which is ideal for creating a corporate or any other type of business website. SHK Corporate theme is a child theme of the Appointment WordPress theme. The theme uses the blue color variation that WordPress uses as default. You will find 3 separate header sidebars, which will be placed just above the menu section. The top header section is very useful when it comes to adding social media links, email IDs, contact information and any other important information that you want to share. All you need to do is add a few widgets and you are good to go.
+ Author:       webriti
+ Author URI:   http://www.webriti.com
+ Theme URI:    http://webriti.com/shk-corporate-child-version-details-page/
+ Template:     appointment
+ Version:      2.1.2
+ Tags: 		   full-width-template, threaded-comments, two-columns,  right-sidebar, sticky-post, custom-menu, translation-ready, blog, portfolio, footer-widgets, featured-images, featured-image-header, custom-header
+ Text Domain: shk-corporate
+*/
+
+/*Header Widget and Top contact detail Section--------------------------------------------------------------------------*/
+.top-header-widget h3, 
+.top-contact-detail-section h3 {
+    font-family: 'Open Sans';
+	color: #fff;
+    letter-spacing: 0.5px;
+    line-height: 1.1;
+    word-wrap: break-word;
+}
+.top-header-widget h3 { margin: 0 0 22px; }
+.top-contact-detail-section h3 { margin: 20px 0 20px; }
+.top-header-widget a, 
+.top-header-widget > ul > li > a, 
+.top-contact-detail-section a, 
+.top-contact-detail-section > ul > li > a { color: #727272; }
+.top-header-detail label, 
+.top-contact-detail-section label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+.top-header-detail select, 
+.top-contact-detail-section select { 
+	margin: 15px 10px; 
+}
+.top-header-widget label, 
+.top-contact-detail-section label { 
+	color:#fff; 
+	margin: 0 0 25px; 
+}
+.top-header-widget { padding:10px 0; }
+.top-header-widget a, 
+.top-contact-detail-section a, 
+.top-contact-detail-section a:hover,
+.top-contact-detail-section ul > li > a:hover, 
+.top-contact-detail-section .recentcomments a:hover  { 
+	color:#ffffff; 
+}
+.top-header-widget ul { padding: 0; margin: 0 0 50px; list-style: none; }
+.top-contact-detail-section ul { padding: 0; margin: 0 0 20px; list-style: none; }
+.top-header-widget li, 
+.top-contact-detail-section li { 
+	padding: 0px 0px 10px; 
+	font-size: 14px;
+	line-height: 22px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+	color: #fff; 
+	list-style: none;
+}
+.top-header-widget .rssSummary, 
+.top-header-widget .textwidget, 
+.top-header-widget .textwidget p, 
+.top-header-widget .textwidget a {
+	color: #D6D6D6; 
+}
+.top-contact-detail-section .rssSummary, 
+.top-contact-detail-section .textwidget, 
+.top-contact-detail-section .textwidget p, 
+.top-contact-detail-section .textwidget a {
+	color: #ffffff; 
+}
+.top-header-widget p.wp-caption-text, 
+.top-contact-detail-section p.wp-caption-text { 
+	color: #727272; 
+}
+.top-header-widget li a:before, 
+.top-contact-detail-section li a:before, 
+.sidebar-widget li a:before, 
+.footer-widget-column li a:before {
+    content: "\f192";
+    font-family: FontAwesome;
+    margin-right: 10px;
+    margin-left: 1px;
+    font-size: 13px;
+}	
+.top-header-widget span.comment-author-link, 
+.top-header-widget .rssSummary, 
+.top-header-widget span.rss-date, 
+.top-contact-detail-section span.comment-author-link, 
+.top-contact-detail-section .rssSummary, 
+.top-contact-detail-section span.rss-date  {
+    font-size: 15px;
+	line-height: 22px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+}	
+.top-header-widget .rssSummary, 
+.top-contact-detail-section .rssSummary { 
+	color: #ffffff; 
+}	
+.top-header-widget cite, 
+.top-header-widget span.rss-date , 
+.top-contact-detail-section cite, 
+.top-contact-detail-section span.rss-date { 
+	color:#D6D6D6; 
+}	
+.top-header-widget form.appointment-search, 
+.top-contact-detail-section form.appointment-search, 
+.top-header-widget .textwidget, 
+.top-contact-detail-section .textwidget { 
+	margin: 0 0 50px; 
+}
+.top-header-widget select, 
+.top-contact-detail-section select { 
+	display: block; 
+	min-height: 40px; 
+	margin: 0 0 50px; 
+} 
+.top-header-widget .textwidget select, 
+.top-contact-detail-section .textwidget select { 
+	margin: 0px; 
+}
+.top-header-widget .tagcloud, 
+.top-contact-detail-section .tagcloud { 
+	padding: 0 0 40px; 
+}
+.top-header-widget .tagcloud a {
+    background-color: #6B6B6B;
+    color: #ffffff;
+    border: 1px solid #6B6B6B;
+}
+.top-contact-detail-section .tagcloud a, 
+.top-contact-detail-section .tagcloud a:hover {
+    background-color: #ffffff;
+    color: #727272;
+    border: 1px solid #ffffff;
+}
+.top-header-widget ul.icons-medium, 
+.top-contact-detail-section ul.icons-medium { padding: 0; margin: 0 0 50px; list-style: none; }
+.top-header-widget ul.icons-medium li, 
+.top-contact-detail-section ul.icons-medium li { display: inline-block; border-bottom: 0 none; padding: 0 0 5px; }
+.top-header-widget ul.icons-medium li a:before,
+.top-contact-detail-section ul.icons-medium li a:before {
+    content: "\f192";
+    font-family: FontAwesome;
+    margin-right: 10px;
+    margin-left: 1px;
+    font-size: 13px;
+	display: none;
+}
+.top-header-widget .calendar_wrap table, 
+.top-contact-detail-section .calendar_wrap table { margin: 0 0 50px; }
+.top-header-widget .calendar_wrap table > caption, 
+.top-contact-detail-section .calendar_wrap table > caption  {
+	color: #ffffff; 
+}

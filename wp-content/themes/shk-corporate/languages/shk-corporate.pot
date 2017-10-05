@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shk-corporate\n"
+"POT-Creation-Date: 2017-05-10 13:13+0530\n"
+"PO-Revision-Date: 2017-05-10 13:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wptest\\wp-content\\themes\\shk-"
+"corporate\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wptest\\wp-content\\themes\\shk-"
+"corporate\n"
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:40
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:42
+msgid "Top header left area"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:50
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:52
+msgid "Top header center area"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:60
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/functions.php:62
+msgid "Top header right area"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:76
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:96
+msgid "FontAwesome icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:98
+msgid "Find all icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:98
+msgid "here"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:100
+msgid "Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:103
+msgid "Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/header-widget.php:106
+msgid "Open link in new tab"
+msgstr ""
+
+#: D:\xampp\htdocs\wptest\wp-content\themes\shk-corporate/customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr ""

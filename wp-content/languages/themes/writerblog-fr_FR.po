@@ -1,0 +1,95 @@
+# Translation of Themes - writerBlog in French (France)
+# This file is distributed under the same license as the Themes - writerBlog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-27 14:11:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - writerBlog\n"
+
+#. Description of the plugin/theme
+msgid "writerBlog is a free minimal blogging WordPress theme from ThemeIsle. Is responsive and compatible with a wide range of plugins like : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+msgstr "WriterBlog est un thème WordPress gratuit et minimaliste par ThemeIsle. Il est responsive et compatible avec un large éventail d’extensions comme : Nivo Slider, Siteorigin Page Builder, Woocoomerce, Gallery Grid et Contact Form 7."
+
+#. Theme Name of the plugin/theme
+msgid "writerBlog"
+msgstr "writerBlog"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:220
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: functions.php:192
+msgid "Author"
+msgstr "Auteur"
+
+#: functions.php:172
+msgid "Tagged %1$s"
+msgstr "Étiqueté avec %1$s"
+
+#: functions.php:152
+msgid "Logo plus site title &amp; description"
+msgstr "Logo plus titre et description du site"
+
+#: functions.php:151
+msgid "Only logo"
+msgstr "Uniquement le logo"
+
+#: functions.php:136 functions.php:138
+msgid "Lato"
+msgstr "Lato"
+
+#: functions.php:135 functions.php:137
+msgid "Lato:400,300,700"
+msgstr "Lato : 400,300,700"
+
+#: content.php:65
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:60 content.php:74
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-single.php:47 content.php:52
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: content-single.php:42 content.php:47
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: content-single.php:13 content.php:13
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:11 content.php:11 functions.php:170
+msgid ", "
+msgstr ", "
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/amadeus"
+msgstr "http://themeisle.com/themes/amadeus"

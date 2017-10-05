@@ -1,0 +1,389 @@
+# Translation of Themes - Boston in French (France)
+# This file is distributed under the same license as the Themes - Boston package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-14 09:06:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Boston\n"
+
+#. Description of the plugin/theme
+msgid "Boston is a minimal Wordpress Theme designed for blogger, it provides many features that blogger will love. Whether you are looking to share your own thoughts, write about your latest findings, Boston is designed to fulfill these and a lot more. Get free support at https://www.famethemes.com/contact/ and check the demo at http://www.famethemes.com/preview/?theme=Boston"
+msgstr "Boston est un thème WordPress minimal pour les blogs, il fournit de nombreuses fonctions que vous aimerez. Que vous vouliez partager vos pensées ou vos dernières découvertes, Boston vous le permettra et bien plus encore. Obtenez un support gratuit sur https://www.famethemes.com/contact/ et découvrez la démo sur http://www.famethemes.com/preview/?theme=Boston"
+
+#. Theme Name of the plugin/theme
+msgid "Boston"
+msgstr "Boston"
+
+#: inc/dashboard.php:135
+msgid "Rate our theme on %1s. We'd really appreciate it!"
+msgstr "Notez notre thème sur %s. Nous apprécierions vraiment beaucoup !"
+
+#. Template Name of the plugin/theme
+msgid "Full-Width Page"
+msgstr "Page en pleine largeur"
+
+#: inc/dashboard.php:134
+msgid "Are you enjoying Boston theme?"
+msgstr "Vous aimez le thème Boston ?"
+
+#: inc/dashboard.php:128
+msgid "Translate Boston"
+msgstr "Traduire Boston"
+
+#: inc/dashboard.php:126
+msgid "Get involved at WordPress.org."
+msgstr "Impliquez vous sur WordPress.org"
+
+#: inc/dashboard.php:125
+msgid "Are you a polyglot? Want to translate Boston into your own language?"
+msgstr "Vous êtes polyglotte ? Vous voulez traduire Boston dans votre langue ?"
+
+#: inc/dashboard.php:119
+msgid "Boston on GitHub"
+msgstr "Boston sur GitHub"
+
+#: inc/dashboard.php:117
+msgid "GitHub is the place to go!"
+msgstr "GitHub est l’endroit où aller !"
+
+#: inc/dashboard.php:116
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Vous avez trouvé un bug ? Vous voulez contribuer avec un fix ou créer une nouvelle fonction ?"
+
+#: inc/dashboard.php:105
+msgid "download it"
+msgstr "téléchargez la"
+
+#: inc/dashboard.php:105
+msgid " %1$s you will need to install and activate the FameThemes Demo Importer plugin first, %2$s now from Github."
+msgstr "%1$s vous devez installer et activer l’extension d’import de démo FameThemes d’abord, %2$s maintenant depuis Github."
+
+#: inc/dashboard.php:87
+msgid "Upgrade Now"
+msgstr "Mettez à niveau maintenant"
+
+#: inc/dashboard.php:86
+msgid "Boston Pro Demo"
+msgstr "Contenu de démo Boston pro"
+
+#: inc/dashboard.php:83
+msgid "Our #1 blogging WordPress theme with premium features designed for bloggers and content lovers."
+msgstr "Notre premier thème WordPress pour blog avec des fonctions premiums pour les amoureux de contenu."
+
+#: inc/dashboard.php:77
+msgid "Boston Documentation"
+msgstr "Documentation de Boston"
+
+#: inc/dashboard.php:54
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: inc/dashboard.php:52
+msgid "One Click Demo Import"
+msgstr "Import de démo en un clic"
+
+#: inc/customizer.php:84
+msgid "Left sidebar"
+msgstr "Barre à gauche"
+
+#: inc/customizer.php:83
+msgid "Right sidebar"
+msgstr "Barre à droite"
+
+#: inc/customizer.php:79
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/customizer.php:64
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/dashboard.php:46
+msgid "Whether you’re looking to share your own thoughts, write about your latest findings, Boston WordPress theme is designed to fulfill these and a lot more."
+msgstr "Que vous cherchiez à partager vos propres pensées, à écrire au sujet de vos derniers résultats, le thème WordPress Boston est conçu pour satisfaire ces besoins et beaucoup d'autres."
+
+#: inc/customizer.php:274
+msgid "Upgrade to Boston Pro to display featured content as a slider."
+msgstr "Passez à Boston pro pour afficher de nouvelles fonctionnalités de contenu comme le diaporama."
+
+#: inc/customizer.php:250
+msgid "Boston Pro Features"
+msgstr "Fonctionnalités de Boston Pro"
+
+#: inc/customizer.php:237 inc/dashboard.php:81
+msgid "Upgrade to Boston Pro"
+msgstr "Mise à jour vers Boston Pro"
+
+#: inc/customizer.php:229
+msgid "Homepage articles listing layout"
+msgstr "Mise en page de la liste d'articles de l’accueil"
+
+#: inc/customizer.php:224
+msgid "Layout 4"
+msgstr "Mise en page 4"
+
+#: inc/customizer.php:218
+msgid "Layout 3"
+msgstr "Mise en page 3"
+
+#: inc/customizer.php:212
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: inc/customizer.php:208
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: inc/customizer.php:189
+msgid "Articles Listing Layout"
+msgstr "Mise en page de la liste d'articles"
+
+#: inc/customizer.php:124
+msgid "Slider"
+msgstr "Diaporama"
+
+#: inc/customizer.php:123
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: inc/customizer.php:120
+msgid "Display"
+msgstr "Affichage"
+
+#: inc/customizer.php:104
+msgid "Easily feature all posts with the \"featured\" tag or a tag of your choice."
+msgstr "Mettez en avant simplement toutes les publications avec l’étiquette \"featured\" ou une étiquette de votre choix."
+
+#: inc/customizer-controls.php:26
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/dashboard.php:93
+msgid "Theme Screenshot"
+msgstr "Capture d'écran du thème"
+
+#: inc/dashboard.php:76
+msgid "Create a support ticket"
+msgstr "Créer un ticket à destination du support"
+
+#: inc/dashboard.php:73
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Le support du thème Wordpress %s est réalisé au travers du système de tickets de support FameThemes."
+
+#: inc/dashboard.php:71
+msgid "Having Trouble, Need Support?"
+msgstr "Des soucis, besoin d'aide ?"
+
+#: inc/dashboard.php:67
+msgid "Start Customize"
+msgstr "Démarrer la personnalisation"
+
+#: inc/dashboard.php:64
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporte la personnalisation pour tous les réglages du thème. Cliquez sur \"Personnaliser\" pour commencer la personnalisation de votre site."
+
+#: inc/dashboard.php:62
+msgid "Theme Customizer"
+msgstr "Personnalisation du thème"
+
+#: inc/dashboard.php:43
+msgid "Welcome to %1s - Version %2s"
+msgstr "Bienvenue sur %1s - Version %2s"
+
+#: inc/dashboard.php:11
+msgid "%s theme"
+msgstr "Thème %s"
+
+#: inc/dashboard.php:11
+msgid "%s Theme Dashboard"
+msgstr "Tableau de bord du thème %s "
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/customizer.php:35
+msgid "Styling"
+msgstr "Style"
+
+#: inc/customizer.php:180
+msgid "Show posts which have featured image only."
+msgstr "Ne montrer que les articles qui ont une image mise en avant."
+
+#: inc/customizer.php:166
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr "Masquer l’étiquette dans les metas de l’article et dans et les nuages d’étiquettes."
+
+#: inc/customizer.php:152
+msgid "Number post to show"
+msgstr "Nombre d’articles à afficher"
+
+#: inc/customizer.php:138
+msgid "Tag name"
+msgstr "Nom de l’étiquette"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:160
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:155
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: template-parts/content.php:40
+msgid "Continue Reading"
+msgstr "Continuer la lecture"
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne puissions pas trouver ce que vous cherchez. Peut-être qu’une recherche pourrait vous aider."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais il n'y a aucun résultat pour les termes recherchés. Merci d'essayer à nouveau avec des mots-clés différents."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Démarrez ici</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat trouvé"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Résultats pour la recherche : %s"
+
+#: inc/template-tags.php:147
+msgid "Boston Theme by %1$s"
+msgstr "Thème Boston par %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:83 template-parts/content-page.php:34
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:76
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\">sur %s</span>"
+
+#: inc/template-tags.php:69
+msgid "Tagged %1$s"
+msgstr "Étiqueté avec %1$s"
+
+#: inc/template-tags.php:63
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:61 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:103
+msgid "Featured Content"
+msgstr "Contenu mis en avant"
+
+#: header.php:38
+msgid "Search and hit enter..."
+msgstr "Recherchez et tapez Entrée..."
+
+#: header.php:31
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:112
+msgid "Add widgets here."
+msgstr "Ajoutez des widgets ici."
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:66
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:25
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tous droits réservés."
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:39
+msgid "Add yours"
+msgstr "Ajoutez les votres"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s commentaires"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez une recherche dans les archives mensuelles. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien n'ait été trouvé à cet emplacement. Essayez peut-être l'un des liens ci-dessous ou une recherche ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page n'a pas pu être trouvée."
+
+#. Author URI of the plugin/theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/boston"
+msgstr "https://www.famethemes.com/themes/boston"
